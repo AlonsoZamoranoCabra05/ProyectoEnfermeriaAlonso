@@ -6,6 +6,7 @@ public class Principal {
 
 		//Esta es la clase principal de mi proyecto de enfermeria
 		//para la asignatura de ticII
+		//Aquí se incluye el fucionamiento
 	}
 
 }
